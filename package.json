@@ -1,0 +1,17 @@
+{
+  "name": "goals",
+  "version": "1.0.0",
+  "description": "testing online shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Uliana Samotos",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  }
+}
